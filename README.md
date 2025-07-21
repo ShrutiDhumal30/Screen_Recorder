@@ -2,9 +2,13 @@
 Screen Recorder using the python
 
 📁 Features:
+
 Records the full screen
+
 Saves video in .mp4 or .avi format
+
 Configurable frame rate
+
 Easy to use and lightweight
 
 ⚙️ Requirements:
